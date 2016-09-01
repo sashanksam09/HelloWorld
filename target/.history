@@ -1,0 +1,5 @@
+run
+sbt about
+cls
+clear
+run
